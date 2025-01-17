@@ -1,0 +1,8 @@
+SocksAPi-JavaBeginner:
+
+ - docker-compose postgres
+ - gradle
+ - application.yaml
+ - validation in model
+ - mapper
+ -

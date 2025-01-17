@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: SocksAPi-JavaBeginner
+
+  datasource:
+    url: jdbc:postgresql://localhost:5439/SockDB
+    hikari:
+      username: postgres
+      password: postgres
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        format_sql: true
+        dialect: org.hibernate.dialect.PostgreSQLDialect
