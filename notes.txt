@@ -5,4 +5,4 @@ SocksAPi-JavaBeginner:
  - application.yaml
  - validation in model
  - mapper
- -
+ - tests
